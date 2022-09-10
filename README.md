@@ -5,6 +5,11 @@ Software developer oriented to the web and communications world. In love with AP
 [![](https://img.shields.io/badge/rss-linkedin-informational?style=for-the-badge) ](https://www.linkedin.com/in/davidggdev/)
 [![](https://img.shields.io/badge/contact-email-red?style=for-the-badge) ](davidggdev@gmail.com)
  
+ ## Actually on 
+
+[![](https://img.shields.io/badge/Yas_slider-informational?style=for-the-badge) ](https://github.com/davidggdev/yas)
+[![](https://img.shields.io/badge/Foil_slider-informational?style=for-the-badge) ](https://github.com/davidggdev/foil-slider)
+
  ## Some info
  In the last few years I have dedicated myself to:
 
