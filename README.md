@@ -63,7 +63,7 @@ Where I usually feel comfortable:
 
 ![](https://img.shields.io/badge/Blender-informational?style=for-the-badge&logo=blender&labelColor=1e1e1e&color=1e1e1e)
 ![](https://img.shields.io/badge/Photoshop-informational?style=for-the-badge&logo=javascript&labelColor=1e1e1e&color=1e1e1e)
-![](https://img.shields.io/badge/Skecth-informational?style=for-the-badge&logo=skecth&labelColor=1e1e1e&color=1e1e1e) 
+![](https://img.shields.io/badge/Skecth-informational?style=for-the-badge&logo=sketch&labelColor=1e1e1e&color=1e1e1e) 
 
 ![](https://img.shields.io/badge/SEO-informational?style=for-the-badge&labelColor=1e1e1e&color=1e1e1e)
 ![](https://img.shields.io/badge/SEO_WPO-informational?style=for-the-badge&labelColor=1e1e1e&color=1e1e1e)
