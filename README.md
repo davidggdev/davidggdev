@@ -66,7 +66,7 @@ Where I usually feel comfortable:
 ![](https://img.shields.io/badge/Skecth-informational?style=for-the-badge&logo=skecth&labelColor=1e1e1e&color=1e1e1e) 
 
 ![](https://img.shields.io/badge/SEO-informational?style=for-the-badge&labelColor=1e1e1e&color=1e1e1e)
-![](https://img.shields.io/badge/SEO-onpage-informational?style=for-the-badge&labelColor=1e1e1e&color=1e1e1e)
+![](https://img.shields.io/badge/SEO_WPO-informational?style=for-the-badge&labelColor=1e1e1e&color=1e1e1e)
 
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&labelColor=1e1e1e&color=1e1e1e)
 ![](https://img.shields.io/badge/Subversion-informational?style=for-the-badge&logo=subversion&labelColor=1e1e1e&color=1e1e1e)
