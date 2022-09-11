@@ -46,9 +46,9 @@ Software developer oriented to the web and communications world. In love with AP
 
 Where I usually feel comfortable:
 
-![](https://img.shields.io/badge/Html-5-informational?style=for-the-badge&logo=html&labelColor=1e1e1e&color=1e1e1e)
-![](https://img.shields.io/badge/Sass-5-informational?style=for-the-badge&logo=sass&labelColor=1e1e1e&color=1e1e1e)
-![](https://img.shields.io/badge/Php-5-informational?style=for-the-badge&logo=php&labelColor=1e1e1e&color=1e1e1e)
+![](https://img.shields.io/badge/Html_5-informational?style=for-the-badge&logo=html&labelColor=1e1e1e&color=1e1e1e)
+![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&labelColor=1e1e1e&color=1e1e1e)
+![](https://img.shields.io/badge/Php-informational?style=for-the-badge&logo=php&labelColor=1e1e1e&color=1e1e1e)
 ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&labelColor=1e1e1e&color=1e1e1e)
 ![](https://img.shields.io/badge/Kotlin-informational?style=for-the-badge&logo=kotllin&labelColor=1e1e1e&color=1e1e1e)
 
@@ -70,4 +70,3 @@ Where I usually feel comfortable:
 
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&labelColor=1e1e1e&color=1e1e1e)
 ![](https://img.shields.io/badge/Subversion-informational?style=for-the-badge&logo=subversion&labelColor=1e1e1e&color=1e1e1e)
-
