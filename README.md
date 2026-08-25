@@ -16,7 +16,7 @@ Software developer focused mainly on Backend and Full Stack web development. In 
     Integration of optional local AI directly in the browser using WebGPU and WebLLM.
     Privacy-oriented architecture where AI analysis can run locally without sending the writer's text to an external backend.
 
-[![](https://img.shields.io/badge/JobDock-Chrome_Extension-informational?style=for-the-badge&logo=googlechrome&labelColor=1e1e1e&color=1e1e1e)](#)
+[![](https://img.shields.io/badge/JobDock-Chrome_Extension-informational?style=for-the-badge&logo=googlechrome&labelColor=1e1e1e&color=1e1e1e)](https://chromewebstore.google.com/detail/jobdock/jldamhfmmnilgjlhjnedbojeifipeaci)
 
     Browser extension for managing and tracking job applications directly from supported employment websites.
     Stores job offers, application statuses, notes, labels, reminders and professional profile data locally using IndexedDB.
